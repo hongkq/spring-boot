@@ -14,9 +14,7 @@
 ### 项目说明
 - 源码只供学习使用，更多请看视频
 
-### 技术交流
-* QQ2群: 601146630
-* QQ1群: 213097382 (满)
+
 
 ## 开源项目 
 ### roncoo-jui-springboot：[https://github.com/roncoo/roncoo-jui-springboot](https://github.com/roncoo/roncoo-jui-springboot)
